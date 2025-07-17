@@ -1,0 +1,3 @@
+tugbakaratas,12345,tugba@gmail.com,admin
+fikretUzun,Uzun1453,uzunfikret@gmail.com,user
+KirazAkin,Akin53,kiraz@gmail.com,user
