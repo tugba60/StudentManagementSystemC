@@ -22,7 +22,16 @@ This project is a simple file-based student and employee registration system dev
 ## Usage
 When you run the program, you will be greeted with a welcome screen offering login or signup options.
 Example Users:
-You can manually create the users.txt file and add example users to test the system:
+You can manually create the users.txt file and add example users to test the system.
+
+## Development Opportunities
+* Security and Data Integrity
+  * User passwords can be stored by hashing.
+  * Restrictions can be placed on incorrect user login attempts.
+* Data Management
+  * Data can be stored in simple databases.
+  * File operations can be made more secure using a CSV library.
+
 
 
 [TR]
@@ -49,7 +58,13 @@ Bu proje, C dili kullanılarak geliştirilmiş, dosya tabanlı basit bir öğren
 ## Kullanım 
 Programı çalıştırdığınızda, giriş (LOGIN) veya kayıt (SIGNUP) seçeneklerini sunan bir karşılama ekranı ile karşılaşacaksınız.
 Örnek Kullanıcılar :
-Sistemi test etmek için users.txt dosyasını manuel olarak oluşturabilir ve içine örnek kullanıcılar ekleyebilirsiniz:
+Sistemi test etmek için users.txt dosyasını manuel olarak oluşturabilir ve içine örnek kullanıcılar ekleyebilirsiniz.
 
 
-
+## Geliştirme İmkanı
+* Güvenlik ve Veri Bütünlüğü
+  * Kullanıcı şifreleri hashlenerek saklanabilir.
+  * Kullanıcı girişinin yanlış yapılması halinde bir kısıt konulabilir.
+* Veri Yönetimi
+  * Veriler basit veri tabanlarında saklanabilir.
+  * Dosya işlemleri CSV kütüphanesi ile daha güvenli yapılabilir.  
